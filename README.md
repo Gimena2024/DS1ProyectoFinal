@@ -1,3 +1,6 @@
+MODELOS ANALITICOS para la predicción de RANKING de Jugadores de Fútbol
+
+
 En esta instancia el trabajo final parte III se desarrollo en Google Colab.
 
 https://colab.research.google.com/drive/11arsLqJbvsOGvs8dckuOhn7Ip9CYbIJj?usp=drive_link
